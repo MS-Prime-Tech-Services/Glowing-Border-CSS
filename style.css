@@ -1,0 +1,16 @@
+body{
+    background: #151f28;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div{
+    height: 170px;
+    width: 130px;
+    border: 3px solid cyan;
+    box-shadow: 0px 0px 15px cyan,
+                0px 0px 15px cyan inset;
+    
+}
